@@ -1,0 +1,6 @@
+# Pong
+First Project from CS50 Game Development Course - Pong
+
+I chose to do this... 
+
+because...
