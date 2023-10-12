@@ -1,6 +1,4 @@
 # Pong
 First Project from CS50 Game Development Course - Pong
 
-I chose to do this... 
-
-because...
+Finished project uploaded. I customized some of the sounds from the course as well as creating a different title screen.
